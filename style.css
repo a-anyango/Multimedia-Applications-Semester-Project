@@ -418,7 +418,12 @@ padding: .5rem 3rem;
 border-radius: 3rem;
 transition: .3s;
 margin-top: 40px;
-}   
+}
+
+.button a:hover {
+    background: #80e5ff;
+    color: #fff;
+}
 
 /* FOOTER CSS END*/
 
